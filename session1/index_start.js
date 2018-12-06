@@ -50,7 +50,7 @@ function fizzBuzz() {
       console.log('Fizz')
     } else if (i % 5 === 0) { //Multiple of 5
       console.log('Buzz')
-    } else { //Other
+    } else { //Number that is not Multile of 5 or 3
       console.log(i);
     }
   }
